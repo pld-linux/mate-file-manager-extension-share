@@ -10,7 +10,7 @@ Source0:	http://pub.mate-desktop.org/releases/1.6/mate-file-manager-share-%{vers
 URL:		http://mate-desktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake >= 1:1.9
-BuildRequires:	gettext-devel >= 0.10.40
+BuildRequires:	gettext-tools >= 0.10.40
 BuildRequires:	glib2-devel >= 1:2.4.0
 BuildRequires:	intltool >= 0.29
 BuildRequires:	libtool >= 1:1.4.3
